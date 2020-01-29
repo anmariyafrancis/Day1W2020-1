@@ -7,7 +7,7 @@ public class FirstExample
         System.out.println("Welcome to Java Programming");
         for (int i = 0; i < 10; i++)
 
-            System.out.println("PhilipJhasonDeLeon");
+            System.out.println("Anmariya Francis");
 
         //Day - 2 Code Starts here
 
